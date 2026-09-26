@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m a Computer Science student exploring Cybersecurity.<br><br>I enjoy understanding how systems work, writing code, and learning how to secure digital environments. I’m currently focused on improving my Python skills with an interest in cybersecurity and problem-solving.
 
 
